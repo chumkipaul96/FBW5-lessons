@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 update file 2
 
+=======
+update file 2
+>>>>>>> 36adc240947071a0130224f78560d9d0b10013af
+change again from local
