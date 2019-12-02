@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 update file 2
 
 =======
 update file 2
 >>>>>>> 36adc240947071a0130224f78560d9d0b10013af
 change again from local
+=======
+update file 2
+change from github
+>>>>>>> 9e09da642020b6ee4391ba8e09c69c172f1c7159
